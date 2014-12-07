@@ -1,0 +1,14 @@
+ok, I'm going to try and explain the dupe bug as clearly as possible.
+
+So, you have a solid block, doesn't matter what, place a carpenter's pressure plate on top.
+Then you add a block to the pressure plate (right clikc on it)
+if you brake the top side of the supporting block, you mine the block itself, not the pressure plate
+you have a change (50/50) of getting the inventory block of the pressure plate duped
+
+
+I hope you guys can fix this
+Greetings
+Liam
+
+
+carpenter's blocks version 3.2.8 (3.2.8) in direwolf20 1.7.10 version 1.0.2
